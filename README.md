@@ -39,3 +39,11 @@ Ultralytics YOLOv9 model
 **To install dependencies:**
 
 pip install opencv-python-headless torch ultralytics
+
+# output
+
+![Screenshot 2024-11-12 104755](https://github.com/user-attachments/assets/3eb9f540-233e-4873-95f0-d2573e03d5b4)
+
+![Screenshot 2024-11-12 104950](https://github.com/user-attachments/assets/98595995-c74f-4066-9d9e-6deab300f938)
+
+
