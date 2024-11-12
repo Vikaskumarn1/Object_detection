@@ -29,8 +29,11 @@ After quitting, the program releases the video capture device and closes the dis
 
 # Requirements
 Python 3.8+
+
 OpenCV
+
 PyTorch
+
 Ultralytics YOLOv9 model
 
 **To install dependencies:**
